@@ -1,4 +1,4 @@
-Projeto Mobile
+Projeto Mobile do Ecoleta
 
 expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 npm install @react-navigation/native    -- Navegacao
@@ -9,3 +9,12 @@ npm install react-native-svg
 npm install react-native-emoji
 npm install axios
 npm install react-native-picker-select
+
+======== 
+Rodar o projeto
+========
+
+npm install
+npm start
+
+<img src='./demo/demo.gif' />
