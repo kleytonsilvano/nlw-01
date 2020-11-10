@@ -2,4 +2,4 @@
 
 Projeto construído durante o Next Level Week #01 
 
-<img src='./demo/demo.png' />
+<img src='./demo/demo1.png' />
