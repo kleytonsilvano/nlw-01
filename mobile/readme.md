@@ -10,8 +10,6 @@ npm install react-native-emoji
 npm install axios
 npm install react-native-picker-select
 
-======== 
-
 npm install<br/>
 npm start<br/>
 <br/>
